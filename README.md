@@ -5,8 +5,8 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
+|Name|奥永　龍也 (Okunaga Tatsuya))|
+|Phone|090 9348 0107|
 |Twitter|[@foobar](https://twitter.com/foobar)|
 |Qiita|[foobar](http://qiita.com/foobar)|
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
