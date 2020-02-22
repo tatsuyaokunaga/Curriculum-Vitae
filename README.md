@@ -26,8 +26,8 @@ SQLite
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- Framework Keras PyTorch
+  
 
 ### その他
 
@@ -39,9 +39,9 @@ SQLite
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2020/11 - : DATUM STUDIO
 
-職務: Webアプリケーションエンジニア（例）
+職務: Data Scientist
 
 #### 職務内容の名前（レストラン検索とか）
 
