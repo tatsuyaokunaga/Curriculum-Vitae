@@ -6,8 +6,7 @@
 |---|-----|
 |Name|奥永　龍也 (Okunaga Tatsuya)|
 |Phone|090 9348 0107|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
+|Qiita|(https://qiita.com/ttskng)|
 
 ## Skill
 
@@ -27,7 +26,7 @@ Python
   
 ### Etc
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- YOLOV3
 
 ## 強み
 
@@ -35,15 +34,15 @@ Python
 
 ## 職務経歴
 
-### 2020/11 - : DATUM STUDIO
+### 2018/11 - : DATUM STUDIO
 
 Duties: Data Scientist
 
-#### 職務内容の名前（レストラン検索とか）
+#### Job description
 
-- 職務内容の詳細を箇条書きでかく
+- Image processing matter
 
-#### 職務内容の名前（レストラン検索とか）
+#### 職務内容の名前
 
 - 職務内容の詳細を箇条書きでかく
 
