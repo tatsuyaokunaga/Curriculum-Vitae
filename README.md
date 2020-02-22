@@ -9,22 +9,23 @@
 |Qiita|[foobar](http://qiita.com/foobar)|
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
 
-## スキル
+## Skill
 
-### 言語
+### Language
 
-- プログラミング言語
+- Programming language
 Python
 - Japanese
   - native
 - English
   - easy daily conversations
 
-### フレームワーク
+### Framework
 
-- Framework Keras PyTorch
+- Keras
+- PyTorch
   
-### その他
+### Etc
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 
