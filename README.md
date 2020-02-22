@@ -1,16 +1,13 @@
 # Curriculum-Vitae
-# 職務経歴書
 
-## 基本情報
+## Basic information
 
 |key|value|
 |---|-----|
 |Name|奥永　龍也 (Okunaga Tatsuya)|
 |Phone|090 9348 0107|
-|Twitter|[@foobar](https://twitter.com/foobar)|
 |Qiita|[foobar](http://qiita.com/foobar)|
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
 
 ## スキル
 
@@ -18,17 +15,15 @@
 
 - プログラミング言語
 Python
-SQLite
-- 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる
+- Japanese
+  - native
+- English
+  - easy daily conversations
 
 ### フレームワーク
 
 - Framework Keras PyTorch
   
-
 ### その他
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
@@ -41,7 +36,7 @@ SQLite
 
 ### 2020/11 - : DATUM STUDIO
 
-職務: Data Scientist
+Duties: Data Scientist
 
 #### 職務内容の名前（レストラン検索とか）
 
