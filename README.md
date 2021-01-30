@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|奥永　龍也 (Okunaga Tatsuya)|
-|Phone|090 9348 0107|
+|Phone||
 |Qiita|(https://qiita.com/ttskng)|
 
 ## Skill
